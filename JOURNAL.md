@@ -34,3 +34,19 @@ Total hours so far: 7
 <br><br>
 ## Day 2: March 9th 2025
 `Research` `CAD`
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/99b705cbeaa3b43d16e4490dd5908a8b150a32d6_cad-09_03_2025.png" width="350" title="CAD Frame Reshape">
+
+- I reshaped the frame so that there was more space on the inside and it will be less confusing for physical connection when I build it. It is now 200mm<sup>3</sup>, using 8 x _2020 160mm Aluminium Extrusions_ and 4 x _2020 200mm Aluminium Extrusions_.
+
+- I then researched power supplies - how they work, how to know what voltage, current, and wattage to use. I also researched different methods for the Z-Axis on a CoreXY printer. I figured out that due to the very small scale of my printer I won't need to support all 4 corners of the build plate.
+
+- I also reasearched hotends and how to connect them to my extruder which is direct drive. I am going to design a 3D printable mount so I can connect my direct drive extruder (Orbiter V2.0) with my hotend (Short E3D V6 Hotend with PTFE).
+
+`Research: +3 hours` `CAD: +30 mins`
+
+***+3 hours 30 mins***
+
+### Time Spent on This Day: 3 hours 30 mins
+
+`Research: 3 hours` `CAD: 30 mins`
