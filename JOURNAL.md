@@ -2,7 +2,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 7
+Total hours so far: 14 hours 30 mins
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -50,3 +50,29 @@ Total hours so far: 7
 ### Time Spent on This Day: 3 hours 30 mins
 
 `Research: 3 hours` `CAD: 30 mins`
+
+<br><br>
+## Day 3: March 10th 2025
+`Research` `CAD`
+
+- I researched toolhead designs and what fans I could use for mine and how I could mount the extruder to the hotend.
+
+`Research: +1 hour`
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/13e36eb811a0c3c0056467aa27a2fe0c9376ed16_screenshot_2025-03-10_at_6.23.23___pm.png" width="350" title="CAD Frame Reshape">
+
+- I designed the toolhead with different parts that would mount together using screws and heatset inserts.
+
+- There are 3 different parts: the part that mounts to the front of the hotend, the part that connects the axial fan to that part, and the part that mounts to the back of the hotend connecting the other fan and the extruder.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/79dd78bd85854feea0189e9b24e4537d54ee480c_screenshot_2025-03-10_at_6.23.59___pm.png" width="350" title="CAD Frame Reshape">
+
+- Here is what it looks like in the full assembly so far.
+
+`CAD: +3 hours`
+
+### Time Spent on This Day: 4 hours
+
+`Research: 1 hour` `CAD: 3 hours`
+
+<br><br>
