@@ -59,6 +59,8 @@ Total hours so far: 14 hours 30 mins
 
 `Research: +1 hour`
 
+***+1 hour***
+
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/13e36eb811a0c3c0056467aa27a2fe0c9376ed16_screenshot_2025-03-10_at_6.23.23___pm.png" width="350" title="CAD Frame Reshape">
 
 - I designed the toolhead with different parts that would mount together using screws and heatset inserts.
@@ -70,6 +72,8 @@ Total hours so far: 14 hours 30 mins
 - Here is what it looks like in the full assembly so far.
 
 `CAD: +3 hours`
+
+***+3 hours***
 
 ### Time Spent on This Day: 4 hours
 
