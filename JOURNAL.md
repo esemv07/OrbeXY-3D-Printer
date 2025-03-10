@@ -61,13 +61,13 @@ Total hours so far: 14 hours 30 mins
 
 ***+1 hour***
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/13e36eb811a0c3c0056467aa27a2fe0c9376ed16_screenshot_2025-03-10_at_6.23.23___pm.png" width="350" title="CAD Frame Reshape">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/13e36eb811a0c3c0056467aa27a2fe0c9376ed16_screenshot_2025-03-10_at_6.23.23___pm.png" width="350" title="CAD Toolhead">
 
 - I designed the toolhead with different parts that would mount together using screws and heatset inserts.
 
 - There are 3 different parts: the part that mounts to the front of the hotend, the part that connects the axial fan to that part, and the part that mounts to the back of the hotend connecting the other fan and the extruder.
 
-<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/79dd78bd85854feea0189e9b24e4537d54ee480c_screenshot_2025-03-10_at_6.23.59___pm.png" width="350" title="CAD Frame Reshape">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/79dd78bd85854feea0189e9b24e4537d54ee480c_screenshot_2025-03-10_at_6.23.59___pm.png" width="350" title="CAD Toolhead in Assembly">
 
 - Here is what it looks like in the full assembly so far.
 
@@ -75,8 +75,16 @@ Total hours so far: 14 hours 30 mins
 
 ***+3 hours***
 
-### Time Spent on This Day: 4 hours
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a5a222bda7bdba1430c38d7a3bc90eaf84027b99_cad-10_03_2025-3.png" width="350" title="CAD Toolhead Angled">
 
-`Research: 1 hour` `CAD: 3 hours`
+- I also changed the angle of the side fan to blow the air more towards the nozzle and to optimise space on the toolhead.
+
+`CAD: +1 hour`
+
+***+1 hour***
+
+### Time Spent on This Day: 5 hours
+
+`Research: 1 hour` `CAD: 4 hours`
 
 <br><br>
