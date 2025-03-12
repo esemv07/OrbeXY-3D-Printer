@@ -2,7 +2,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 14 hours 30 mins
+Total hours so far: 18 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -86,5 +86,24 @@ Total hours so far: 14 hours 30 mins
 ### Time Spent on This Day: 5 hours
 
 `Research: 1 hour` `CAD: 4 hours`
+
+<br><br>
+## Day 4: March 11th 2025
+
+`Research` `CAD`
+
+- I did more research on toolheads and realised that I need to add a channel for the air to flow towards the nozzle. I researched different methods of this for my design.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/7733821186895e280088b18ef19c31b23e9dbf51_cad-11_03_2025-1.png" height="400" title="CAD Toolhead Airflow 1"> <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/cf66ce6f001f85248d64ca577ed78a27648045b1_cad-11_03_2025-2.png" height="400" title="CAD Toolhead Airflow 2">
+
+- I then applied this to my CAD model trying not to impede on the parts that I already had. This proved much harder than I expected and I had many iterations of it before I finally achieved a result that I wanted.
+
+`Research: +30 mins` `CAD: +2 hours`
+
+***+2 hours 30 mins***
+
+### Time Spent on This Day: 2 hours 30 mins
+
+`Research: 30 mins` `CAD: 2 hours`
 
 <br><br>
