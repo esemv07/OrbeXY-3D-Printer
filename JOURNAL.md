@@ -2,7 +2,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 18 hours
+Total hours so far: 24 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -105,5 +105,32 @@ Total hours so far: 18 hours
 ### Time Spent on This Day: 2 hours 30 mins
 
 `Research: 30 mins` `CAD: 2 hours`
+
+<br><br>
+## Day 5: March 12th 2025
+
+`Research` `CAD`
+
+- I researched the different axes motion systems and what motors and linear rails to use. I think I will use MGN7 rails and MGN7-H for the carriage and I will use NEMA 14 Stepper Motors. I still don't completely understand the belt system but I will model the rails and carriage connections first.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/baa4b052f033cc7cbe6962d33defa073071a24bb_cad-12_03_2025-2.png" width="350" title="CAD Full Assembly">
+
+- I then added the linear rails to my full assembly and realised that it would be better to go with MGN9 rails and MGN9-H carriages so I added them instead. This meant I had to change the connection on the toolhead to fit on the MGN9-H carriage.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/43610adf80ba3613922e961b7cd26198cf9fb8a8_12_03_2025.png" width="350" title="CAD Full Assembly">
+
+- I also had to model some connectors to connect the X-Axis linear rail to the Y-Axis rails so that they could move together. Here is what they look like.
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/43610adf80ba3613922e961b7cd26198cf9fb8a8_12_03_2025.png" width="350" title="CAD Full Assembly">
+
+- I then put all the new and modified components together in the full assembly. Here's what it looks like to far!
+
+`Research: +3 hours` `CAD: +3 hours`
+
+***+6 hours***
+
+### Time Spent on This Day: 6 hours
+
+`Research: 3 hours` `CAD: 3 hours`
 
 <br><br>
