@@ -2,7 +2,7 @@ Made by: @esemv
 
 Repository link: https://github.com/esemv07/OrbeXY-3D-Printer
 
-Total hours so far: 24 hours
+Total hours so far: 26 hours
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -132,5 +132,26 @@ Total hours so far: 24 hours
 ### Time Spent on This Day: 6 hours
 
 `Research: 3 hours` `CAD: 3 hours`
+
+<br><br>
+## Day 6: March 13th 2025
+
+`Research` `CAD`
+
+- I did a lot of research on the X-Axis and Y-Axis motion systems and how to implement them, it was quite confusing how both the belts connect to the toolhead as I originally thought that one would connect to the toolhead, and one to the ends of the linear rail. I understand it now though after quite a bit of research.
+
+`Research: +1 hour`
+
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/531ffcb0e76c4793cbd5589072847bdb998dd48d_cad-13_03_2025.png" width="350" title="CAD Full Assembly">
+
+- I got started on the CAD for these motion systems, so far I added the NEMA 14 stepper motors and GT2 20 Teeth Pulleys. Here is what it looks like in the full assembly so far.
+
+`CAD: +1 hour`
+
+***+2 hours***
+
+### Time Spent on This Day: 2 hours
+
+`Research: 1 hour` `CAD: 1 hour`
 
 <br><br>
