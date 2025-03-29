@@ -252,7 +252,7 @@ Total hours so far: 40 hours
 
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/b4e8aeaadd28e52da6dc9d6e7f20ede3f5c5c6a0_screenshot_2025-03-30_at_8.17.38___am.png" width="350" title="CAD Full Assembly">
 
-- Here is what the full assembly looks like so far. I think all I have left to do is to finished it X and Y Axis pulley and belt system and to add the endstops that I made at the start. Although I'll probably think of something else left to do later :pensive:.
+- Here is what the full assembly looks like so far. I think all I have left to do is to finish it is the X and Y Axis pulley and belt system and to add the endstops that I made at the start. Although I'll probably think of something else left to do later :pensive:.
 
 ### Time Spent on This Day: 3 hours
 
