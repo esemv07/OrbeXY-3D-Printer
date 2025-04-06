@@ -9,7 +9,7 @@ Total hours so far: 40 hours
 ## What Makes My Printer Unique?
 ### Goals
 - CoreXY Kinematics
-- Under 280mm<sup>3<sup> total size
+- Under 280mm<sup>3</sup> total size
 - 100mm<sup>3</sup> build volume
 - Runs Klipper
 - Pico MMU Compatible
@@ -17,7 +17,7 @@ Total hours so far: 40 hours
 
 ### Achieved So Far
 - [x] CoreXY Kinematics
-- [x] Under 280mm<sup>3<sup> total size
+- [x] Under 280mm<sup>3</sup> total size
 - [x] 100mm<sup>3</sup> build volume
 - [ ] Runs Klipper
 - [ ] Pico MMU Compatible
