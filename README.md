@@ -7,6 +7,18 @@ A fully DIY 3D printer that I designed
 
 This is a small CoreXY 3D printer that I have designed from scratch including designing the Toolhead, Bed Assembly, Gantry and Belt System, as well as the Optical Endstops. See my journey of designing and building the printer [here](https://github.com/esemv07/OrbeXY-3D-Printer/blob/main/JOURNAL.md). This printer costs under $476.04AUD ($300USD). See my list of materials and prices [here](https://github.com/esemv07/OrbeXY-3D-Printer/blob/main/BOM.md).
 
+## ✨ Key Features
+
+- CoreXY Kinematics
+- 100mm<sup>3</sup> Build Area
+- Under 250mm<sup>3</sup> Full Size
+- Runs Klipper
+- Remote Printer
+- Pico MMU Compatible
+- NEMA 14 Stepper Motors used for the X and Y Axes
+- NEMA 17 Stepper Motor with Lead Screw used for the Z Axis
+- Optical Endstops for Homing
+
 
 ## 📋 Checklist
 
@@ -19,6 +31,12 @@ This is a small CoreXY 3D printer that I have designed from scratch including de
 - [ ] Motherboard and Battery Mount
 - [ ] Full CAD Model
 
+### Firmware:
+- [ ] Remote Printing
+- [ ] Configured Optical Endstops
+- [ ] Pico MMU Configured
+- [ ] Full Klipper config File
+
 ### Build:
 - [ ] Assemble Gantry
 - [ ] X and Y Axis Belt System
@@ -29,16 +47,6 @@ This is a small CoreXY 3D printer that I have designed from scratch including de
 
 ### Tuning:
 - [ ] To be added
-
-
-## ✨ Key Features
-
-- CoreXY Kinematics
-- 100mm<sup>3</sup> Build Area
-- Under 250mm<sup>3</sup> Full Size
-- NEMA 14 Stepper Motors used for the X and Y Axes
-- NEMA 17 Stepper Motor with Lead Screw used for the Z Axis
-- Optical Endstops for Homing
 
 ## 📸 Photos
 
