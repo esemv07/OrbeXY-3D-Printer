@@ -14,8 +14,8 @@ This is a small CoreXY 3D printer that I have designed from scratch including de
 - [x] Toolhead
 - [x] Bed Assembly
 - [x] Z Axis System
-- [ ] X and Y Axis Belt System
-- [ ] Screen Holder
+- [x] X and Y Axis Belt System
+- [x] Screen Holder
 - [ ] Motherboard Mount
 - [ ] Full CAD Model
 
