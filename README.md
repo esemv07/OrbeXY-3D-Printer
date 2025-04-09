@@ -31,6 +31,8 @@ This is a small CoreXY 3D printer that I have designed from scratch including de
 - [ ] Motherboard and Battery Mount
 - [ ] Full CAD Model
 
+Here is the [link](https://a360.co/3FXQvPA) to my live updating Full CAD Model
+
 ### Firmware:
 - [ ] Remote Printing
 - [ ] Configured Optical Endstops
