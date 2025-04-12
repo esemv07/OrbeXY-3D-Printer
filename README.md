@@ -20,6 +20,15 @@ This is a small CoreXY 3D printer that I have designed from scratch including de
 - Optical Endstops for Homing
 
 
+## 🏆 Goals
+
+For this printer there were a few things that I wanted to achieve:
+1. ***A Compact Overall Size:*** I wanted this printer to fit into small desk space so that people can have easy access to printing without having to have a big area dedicated to the printer. I wanted the build area to also be fairly small, at 100mm<sup>3</sup>, making the printer suitable for quick, and small prints. A lot of the choices I made while designing this printer centred around having a compact size while still preserving the full 100mm<sup>3</sup> build area.
+2. ***Runs Klipper with Remote Printing:*** I wanted the printer to run Klipper to improve the overall easy and quality of the printer. On top of this I wanted to have remote printing, so that you can start prints from anywhere and come home to an already started, or even finished print. This meant I had to consider the hardware I was using and how I could configure these parts into the Klipper software. This includes the Optical Endstops, which I designed myself, which will be configured to the Klipper file.
+3. ***Pico MMU Compatible:*** I also wanted this printer to be able to print multicoloured if desired. To achieve this I have made the printer compatible with the Pico MMU, meaning that multicoloured prints can be printed if desired. This also meant that in the Klipper configuration file, I had to configure the MMU to make sure that I could still use it via remote printing.
+4. ***Separated Spool Holder:*** I decided that in this printer, I would have the spool holder separate from the main printer. This aligns with my goal for the size constraints meaning that if the user does not have enough desk space for the spool as well, the spool could be stowed underneath the desk even while printing. The spool holder is connected to the printer via bowden tubing that will run from the spool holder, into the extruder. The same will apply for if the Pico MMU is used. The spool holders can stay under the desk as well as the Pico MMU and the bowden tubing will run from the Pico MMU to the extruder.
+
+
 ## 📋 Checklist
 
 ### Design:
@@ -29,9 +38,10 @@ This is a small CoreXY 3D printer that I have designed from scratch including de
 - [x] X and Y Axis Belt System
 - [x] Screen Holder
 - [ ] Motherboard and Battery Mount
+- [ ] Spool Holder
 - [ ] Full CAD Model
 
-Here is the [link](https://a360.co/3FXQvPA) to my live updating Full CAD Model
+Here is the [link](https://a360.co/3FXQvPA) to my live updating Full CAD Model!
 
 ### Firmware:
 - [ ] Remote Printing
