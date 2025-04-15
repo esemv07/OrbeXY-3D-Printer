@@ -10,7 +10,7 @@ Budget: $476.04AUD ($300USD)
 
 |    Category    |            Item              | Price (AUD) | Quantity |   Vendor   |         Link         |
 |----------------|------------------------------|-------------|----------|------------|----------------------|
-|     Gantry ↓   |     Aluminium Extrusions     |    $4.39    |    12    | AliExpress | [200mm 2020 V-slot Aluminum Profile](https://www.aliexpress.com/item/1005003464748480.html?spm=a2g0o.productlist.main.20.75e015c8FR2Dup&algo_pvid=ad0c5482-5ff1-4d6a-ba6b-71e48f4a0ffd&algo_exp_id=ad0c5482-5ff1-4d6a-ba6b-71e48f4a0ffd-17&pdp_ext_f=%7B%22order%22%3A%22142%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21AUD%2119.13%2113.39%21%21%2185.05%2159.53%21%402101effb17442740918384242eb12b%2112000025909410128%21sea%21AU%210%21ABX&curPageLogUid=qLq5CViehKWr&utparam-url=scene%3Asearch%7Cquery_from%3A) |
+|     Gantry ↓   |     Aluminium Extrusions     |    $4.39    |    12    | AliExpress | [200mm 2020 T-slot Aluminum Profile](https://www.aliexpress.com/item/1005002845068178.html) |
 |                |      MGN9H Linear Rails      |    $16.49   |     3    | AliExpress | [MGN9H Linear Rail](https://www.aliexpress.com/item/1005002937465647.html) |
 |                |      GT2 Timing Pulley       |    $4.38    | 1 x 2pcs | AliExpress | [GT2 Timing Pulley](https://www.aliexpress.com/item/1005007708631215.html) |
 |                |       GT2 20T Pulley         |    $2.46    |     6    | AliExpress | [GT2 20T 5mm Bore Pulley](https://www.aliexpress.com/item/1005005166638596.html) |
